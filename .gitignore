@@ -11,5 +11,5 @@ xttrader.yaml
 .venv
 
 # IDE files
-.idea
-.vscode
+.idea/
+.vscode/

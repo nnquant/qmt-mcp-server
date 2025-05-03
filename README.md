@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nnquant-qmt-mcp-server-badge.png)](https://mseep.ai/app/nnquant-qmt-mcp-server)
+
 # QMT-MCP-Server
 
 赋予大模型执行股票交易的能力！
